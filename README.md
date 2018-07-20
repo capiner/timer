@@ -1,2 +1,1 @@
-# timer
-Capiner Timer
+# Capiner Timer
